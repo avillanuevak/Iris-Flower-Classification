@@ -37,9 +37,6 @@ The project is organized into a series of Jupyter Notebooks in the `/notebooks` 
 
 To launch the notebooks, run the following command in your terminal from the project root:
 
-```bash
-jupyter notebook
-```
 
 ---
 
