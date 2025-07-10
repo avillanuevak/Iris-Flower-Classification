@@ -35,9 +35,6 @@ The project is organized into a series of Jupyter Notebooks in the `/notebooks` 
 4.  **`04_Model_Comparison.ipynb`**: (Previously `model_comparison.ipynb`) This is where we test multiple models (KNN, SVM, Random Forest) to find the best performer.
 5.  **`05_Hyperparameter_Tuning.ipynb`**: (Previously `hyperparameter_tuning.ipynb`) This notebook provides an educational example of how to tune a model's settings, demonstrating why it isn't always necessary if a simpler model already performs perfectly.
 
-To launch the notebooks, run the following command in your terminal from the project root:
-
-
 ---
 
 ## Project Structure
